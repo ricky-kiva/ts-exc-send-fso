@@ -1,0 +1,35 @@
+{
+  "name": "be-ts-ilaris-flight-diaries-fso",
+  "version": "1.0.0",
+  "description": "Ilari's flight diaries",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "node build/src/index.js",
+    "dev": "ts-node-dev src/index.ts",
+    "lint": "eslint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Rickyslash",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "@stylistic/eslint-plugin": "^3.1.0",
+    "@types/cors": "^2.8.17",
+    "@types/eslint__js": "^8.42.3",
+    "@types/express": "^5.0.0",
+    "eslint": "^9.20.0",
+    "globals": "^15.14.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.23.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "zod": "^3.24.2"
+  }
+}
