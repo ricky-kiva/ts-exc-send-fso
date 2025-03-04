@@ -1,6 +1,6 @@
 # TypeScript (Part 9) FSO
 
-All exercises is placed at corresponding folder's name:
+All exercises are placed in their corresponding folders:
 - Exercises 9.1 - 9.7: Directory -> 9.1 - 9.7 (BMI and Exercise Calculator)
 - Exercises 9.8 - 9.14: Directory -> Patientor (9.8 - 9.14, 9.21 - 9.30) / Backend (9.8 - 9.14, 9.21, 9.23, 9.27)
 - Exercises 9.15 - 9.16: Directory -> 9.15 - 9.16 (Half Stack Application)
